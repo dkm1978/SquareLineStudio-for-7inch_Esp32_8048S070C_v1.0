@@ -8,4 +8,6 @@ Aliexpress : https://pl.aliexpress.com/item/1005004952726089.html
 
 Generated files for VS Code + PlatformIO
 
+for 4inch version : https://github.com/dkm1978/SquareLaineStrudio-for-4inch_Esp32_4827S043_v1.0
+
 Have FUN xD
